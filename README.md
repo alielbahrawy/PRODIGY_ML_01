@@ -1,11 +1,11 @@
-# 📈 Stock Price Prediction using Linear Regression
+# Stock Price Prediction using Linear Regression
 
 This is my submission for the **Machine Learning Task 1** in the PRODIGY internship program.  
 In this project, I developed a simple linear regression model to predict stock closing prices based on historical data using Python and scikit-learn.
 
 ---
 
-## 🔧 Technologies Used
+## Technologies Used
 
 - Python 3.x
 - Pandas
@@ -15,7 +15,7 @@ In this project, I developed a simple linear regression model to predict stock c
 
 ---
 
-## 📊 Project Description
+## Project Description
 
 The goal of this project is to implement a **Simple Linear Regression** model to predict a stock's closing price based on the previous day's closing price.
 
